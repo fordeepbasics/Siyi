@@ -1,0 +1,34 @@
+baseURL = 'https://general-jiang-archive.pages.dev/'
+locale = 'zh-cn'
+title = '姜思毅将军历史文献与生平档案'
+theme = 'PaperMod'
+
+[params]
+  author = "姜思毅将军历史整理小组"
+  description = "姜思毅将军（1920-2009）生平事迹、军事生涯与学术文献全景档案"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  
+  [params.homeInfoParams]
+    Title = "姜思毅将军纪念档案与文献库"
+    Content = "本站收录中国人民解放军原军事科学院副院长姜思毅中将（1920—2009）的生平事迹、战时政治工作历史文献、主编出版的军事历史巨著及学术评介。"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "timeline"
+    name = "生平年谱"
+    url = "/timeline/"
+    weight = 10
+  [[menu.main]]
+    identifier = "works"
+    name = "史学巨著"
+    url = "/works/"
+    weight = 20
+  [[menu.main]]
+    identifier = "gallery"
+    name = "历史相册"
+    url = "/gallery/"
+    weight = 30
