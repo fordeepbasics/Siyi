@@ -1,5 +1,5 @@
-# 姜思毅将军数字化纪念档案与生平文献库
-**General Jiang Siyi (1920–2009) Digital Memorial Archive & Historical Dossier**
+# 姜思毅纪念档案与生平文献
+**Jiang Siyi (1920–2009) Memorial Archive & Historical Dossier**
 
 本项目是关于中国人民解放军原军事科学院副院长**姜思毅中将（1920—2009）**的数字化纪念档案库与公开史料文献汇编。
 
