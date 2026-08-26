@@ -17,6 +17,8 @@ general-jiang-archive/
 │   └── images/
 ├── themes/PaperMod/             # Hugo 极简现代文献主题
 ├── hugo.toml                    # 站点核心配置文件
+├── jiang_siyi_biography.md      # 姜思毅中将生平事迹、学术贡献与历史评价全景报告
+├── jiang_siyi_wikipedia.md      # 符合 Wikipedia 标准规范的条目源码 (Wikitext)
 └── README.md
 ```
 
