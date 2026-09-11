@@ -207,6 +207,9 @@ graph TD
 
 ```
 general-jiang-archive/
+├── biography_book/              # 专传原著与出版数字化文献 (新增)
+│   ├── 生命线之歌_全一册.md      # 《生命线之歌——记军队政治工作者姜思毅》全书完整校勘版 (祝庭勋 著)
+│   └── images/                  # 全套原版高清封面与历史珍贵插图
 ├── content/                     # 档案内容与文献页面 (Markdown)
 │   ├── timeline/                # 生平年谱与关键历史阶段
 │   ├── works/                   # 主编军事历史巨著与代表性著述
